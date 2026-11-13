@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+config.json
+.venv/
+*.xlsx
+gui_test.log
+shot_*.png
