@@ -10,6 +10,14 @@
 общий принцип работы — тот же (HTTP + разбор страниц, без браузера и
 Selenium).
 
+## Внешний вид
+
+![Главное окно](docs/img/shot_main.png)
+
+![Подробности контрольной](docs/img/shot_detail.png)
+
+![Задание assign](docs/img/shot_assign.png)
+
 ## Возможности
 
 * вход на informatics.msk.ru по логину и паролю;
